@@ -1,0 +1,11 @@
+
+#productBody {
+    margin-left: 3%;
+  }
+  
+  #productBody .wastu,
+  .order {
+    display: flex;
+    flex-wrap: wrap;
+  gap:2rem;
+  }
